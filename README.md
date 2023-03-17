@@ -6,12 +6,12 @@ My project, tic tac toe game
 
 This project is a starting point for a Flutter application.
 
-> Note: version flutter : 3.0.1
+> version flutter : 3.0.1
 
 lib used: 
-google_font (https://pub.dev/packages/google_fonts) to use a google font
+> google_font (https://pub.dev/packages/google_fonts) to use a google font
 
-intl (https://pub.dev/packages/intl) to translate the app
+> intl (https://pub.dev/packages/intl) to translate the app
 
 ## finished project
 some screenshots of my app
