@@ -1,0 +1,9 @@
+{
+    "play": "Jogar",
+    "player": "Jogador",
+    "winner": "venceu",
+    "language": "Trocar idioma",
+    "playAgain": "jogar novamente",
+    "draw": "Empate",
+    "selectLanguage": "selecione o idioma"
+}
