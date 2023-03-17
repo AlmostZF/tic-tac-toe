@@ -15,6 +15,8 @@ intl (https://pub.dev/packages/intl) to translate the app
 
 ## finished project
 some screenshots of my app
+
+
 <img src="https://media.discordapp.net/attachments/1086395969190510642/1086398262451388477/app-screenshot_3.png?width=357&height=676" target="_blank"></a>
 <img src="https://media.discordapp.net/attachments/1086395969190510642/1086398262812082278/app-screenshot_4.png?width=357&height=676" target="_blank"></a>
 <img src="https://media.discordapp.net/attachments/1086395969190510642/1086398263478992988/app-screenshot_8.png?width=359&height=676" target="_blank"></a>
